@@ -1,0 +1,30 @@
+
+#include "resource.h"
+#include "windows.h"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Exit", ID_FILE_EXIT
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About", ID_HELP_ABOUT
+    END
+END
+
+IDD_FUNCTIONADD DIALOGEX 10, 10, 420, 350
+STYLE WS_OVERLAPPEDWINDOW
+EXSTYLE WS_EX_OVERLAPPEDWINDOW
+CAPTION "select data for regular collection"
+FONT 8, "MS Sans Serif"
+BEGIN
+    PUSHBUTTON "Apply", IDC_APPLY, 10, 300, 100, 24
+    PUSHBUTTON "OK", IDC_OK, 140,300,100,24
+    PUSHBUTTON "Cancel", IDC_CANCEL, 250,300,100,24
+    LISTBOX IDC_LISTALL, 10, 10, 400, 280, LBS_MULTIPLESEL
+    CHECKBOX "Apply to All",IDC_APPLYALL, 120, 300, 10, 10
+END
+
+IDI_MYICON ICON "jefflucy.ico"

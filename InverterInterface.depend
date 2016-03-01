@@ -1,0 +1,654 @@
+# depslib dependency file v1.0
+1448839209 source:c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\resource.rc
+	"resource.h"
+	"windows.h"
+
+1449979052 c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\resource.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\windows.h
+	<_mingw.h>
+	<sdkddkver.h>
+	<winresrc.h>
+	<excpt.h>
+	<stdarg.h>
+	<windef.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<wincon.h>
+	<winver.h>
+	<winreg.h>
+	<winnetwk.h>
+	<virtdisk.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<winsock.h>
+	<wincrypt.h>
+	<winefs.h>
+	<winscard.h>
+	<winspool.h>
+	<ole.h>
+	<ole2.h>
+	<commdlg.h>
+	<stralign.h>
+	<ole2.h>
+	<winsvc.h>
+	<mcx.h>
+	<imm.h>
+
+1342463377 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw.h
+	"_mingw_mac.h"
+	<vadefs.h>
+	"sdks/_mingw_directx.h"
+	"sdks/_mingw_ddk.h"
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_mac.h
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\vadefs.h
+	<_mingw.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sdks\_mingw_directx.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sdks\_mingw_ddk.h
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sdkddkver.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winresrc.h
+	<winuser.rh>
+	<commctrl.rh>
+	<dde.rh>
+	<winnt.rh>
+	<dlgs.h>
+	<winver.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winuser.rh
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\commctrl.rh
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\dde.rh
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winnt.rh
+
+1342463381 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\dlgs.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winver.h
+	<_mingw_unicode.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_unicode.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\excpt.h
+	<_mingw.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stdarg.h
+	<_mingw_stdarg.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_stdarg.h
+	<vadefs.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\windef.h
+	<winnt.h>
+	<specstrings.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winnt.h
+	<_mingw_unicode.h>
+	<_mingw.h>
+	<ctype.h>
+	<excpt.h>
+	<specstrings.h>
+	<sdkddkver.h>
+	<basetsd.h>
+	<guiddef.h>
+	<intrin.h>
+	<pshpack4.h>
+	<poppack.h>
+	"pshpack4.h"
+	"pshpack2.h"
+	"poppack.h"
+	"pshpack2.h"
+	<pshpack2.h>
+	<poppack.h>
+	"poppack.h"
+	"pshpack8.h"
+	"poppack.h"
+	"poppack.h"
+	<string.h>
+	<ktmtypes.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ctype.h
+	<_mingw.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\specstrings.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\basetsd.h
+	<_mingw.h>
+
+1342463382 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\guiddef.h
+	<string.h>
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\string.h
+	<_mingw.h>
+	<sec_api/string_s.h>
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sec_api\string_s.h
+	<string.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\intrin.h
+	<_mingw.h>
+	<setjmp.h>
+	<stddef.h>
+	<stdlib.h>
+	<errno.h>
+	<malloc.h>
+	<x86intrin.h>
+	<mm3dnow.h>
+	<dvec.h>
+	<fvec.h>
+	<ivec.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\setjmp.h
+	<crtdefs.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\crtdefs.h
+	<_mingw.h>
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stddef.h
+	<_mingw.h>
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stdlib.h
+	<_mingw.h>
+	<limits.h>
+	<sec_api/stdlib_s.h>
+	<malloc.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\limits.h
+	<_mingw.h>
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sec_api\stdlib_s.h
+	<stdlib.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\malloc.h
+	<_mingw.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\errno.h
+	<_mingw.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\dvec.h
+	<intrin.h>
+	<assert.h>
+	<fvec.h>
+	<_mingw.h>
+	<iostream>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\assert.h
+	<_mingw.h>
+	<stdlib.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\fvec.h
+	<intrin.h>
+	<assert.h>
+	<ivec.h>
+	<_mingw.h>
+	<iostream>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ivec.h
+	<intrin.h>
+	<assert.h>
+	<dvec.h>
+	<_mingw.h>
+	<iostream>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\pshpack4.h
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\poppack.h
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\pshpack2.h
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\pshpack8.h
+
+1342463383 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ktmtypes.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winbase.h
+	<_mingw_unicode.h>
+	<winerror.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winerror.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wingdi.h
+	<_mingw_unicode.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack2.h>
+	<poppack.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\pshpack1.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winuser.h
+	<_mingw_unicode.h>
+	<_mingw.h>
+	<stdarg.h>
+	<guiddef.h>
+	<pshpack2.h>
+	<poppack.h>
+	<tvout.h>
+
+1342463388 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\tvout.h
+	<guiddef.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winnls.h
+	<_mingw_unicode.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wincon.h
+	<_mingw_unicode.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winreg.h
+	<_mingw_unicode.h>
+	<reason.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\reason.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winnetwk.h
+	<_mingw_unicode.h>
+
+1342463388 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\virtdisk.h
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\cderr.h
+
+1342463381 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\dde.h
+	<windef.h>
+
+1342463381 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ddeml.h
+	<_mingw_unicode.h>
+
+1342463383 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\lzexpand.h
+	<_mingw_unicode.h>
+
+1342463384 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\mmsystem.h
+	<_mingw_unicode.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1342463385 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\nb30.h
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpc.h
+	<_mingw.h>
+	<windows.h>
+	<basetsd.h>
+	<pshpack8.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<excpt.h>
+	<winerror.h>
+	<rpcasync.h>
+	<poppack.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcdce.h
+	<_mingw_unicode.h>
+	<specstrings.h>
+	<guiddef.h>
+	<rpcdcep.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcdcep.h
+	<_mingw_unicode.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcnsi.h
+	<_mingw_unicode.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcnterr.h
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcasync.h
+	<_mingw_unicode.h>
+	<pshpack8.h>
+	<poppack.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\shellapi.h
+	<_mingw_unicode.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winperf.h
+	<pshpack8.h>
+	<poppack.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winsock.h
+	<windows.h>
+	<_timeval.h>
+	<_bsd_types.h>
+	<inaddr.h>
+	<psdk_inc/_socket_types.h>
+	<psdk_inc/_fd_types.h>
+	<psdk_inc/_ip_types.h>
+	<psdk_inc/_ip_mreq1.h>
+	<psdk_inc/_wsadata.h>
+	<psdk_inc/_xmitfile.h>
+	<psdk_inc/_wsa_errnos.h>
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_timeval.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_bsd_types.h
+
+1342463383 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\inaddr.h
+	<_bsd_types.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_socket_types.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_fd_types.h
+	<psdk_inc/_socket_types.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_ip_types.h
+	<_bsd_types.h>
+	<inaddr.h>
+	<_timeval.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_ip_mreq1.h
+	<inaddr.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_wsadata.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_xmitfile.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_wsa_errnos.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wincrypt.h
+	<_mingw.h>
+	<_mingw_unicode.h>
+	<guiddef.h>
+	<bcrypt.h>
+	<ncrypt.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\bcrypt.h
+
+1342463385 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ncrypt.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winefs.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winscard.h
+	<_mingw_unicode.h>
+	<wtypes.h>
+	<winioctl.h>
+	"winsmcrd.h"
+	"SCardErr.h"
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wtypes.h
+	"rpc.h"
+	"rpcndr.h"
+	"basetsd.h"
+	"guiddef.h"
+	<psdk_inc/_varenum.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcndr.h
+	<pshpack8.h>
+	<basetsd.h>
+	<rpcnsip.h>
+	<poppack.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\rpcnsip.h
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_varenum.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winioctl.h
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winsmcrd.h
+	<_mingw_unicode.h>
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\scarderr.h
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winspool.h
+	<_mingw_unicode.h>
+	<prsht.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\prsht.h
+	<_mingw_unicode.h>
+	<pshpack8.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ole.h
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ole2.h
+	<pshpack8.h>
+	<winerror.h>
+	<objbase.h>
+	<oleauto.h>
+	<oleidl.h>
+	<poppack.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<pshpack8.h>
+	<stdlib.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<guiddef.h>
+	<cguid.h>
+	<urlmon.h>
+	<propidl.h>
+	<poppack.h>
+
+1342463388 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\unknwn.h
+	<_mingw.h>
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"wtypes.h"
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\objidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"unknwn.h"
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\cguid.h
+
+1342463388 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\urlmon.h
+	<_mingw_unicode.h>
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oleidl.h"
+	"servprov.h"
+	"msxml.h"
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\oleidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1342463387 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\servprov.h
+	<_mingw.h>
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1342463385 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\msxml.h
+	"rpc.h"
+	"rpcndr.h"
+	"unknwn.h"
+	"objidl.h"
+	"oaidl.h"
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\oaidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\propidl.h
+	"rpc.h"
+	"rpcndr.h"
+	"windows.h"
+	"ole2.h"
+	"objidl.h"
+	"oaidl.h"
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\oleauto.h
+	<pshpack8.h>
+	<oaidl.h>
+	<poppack.h>
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\commdlg.h
+	<_mingw_unicode.h>
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1342463388 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stralign.h
+	<sec_api/stralign_s.h>
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sec_api\stralign_s.h
+	<stralign.h>
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winsvc.h
+	<_mingw.h>
+	<_mingw_unicode.h>
+
+1342463384 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\mcx.h
+
+1342463382 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\imm.h
+	<_mingw_unicode.h>
+
+1449135154 source:c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\gridprotocol.cpp
+
+1449921828 source:c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\invhmi.cpp
+	<WinSock2.h>
+	<windows.h>
+	<ws2def.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdint.h>
+	<string>
+	<iostream>
+	<commctrl.h>
+	"resource.h"
+	"GridProtocol.h"
+	"LayoutDefs.h"
+	"GridProtocol.cpp"
+
+1342463389 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\winsock2.h
+	<_mingw_unicode.h>
+	<windows.h>
+	<psdk_inc/_ws1_undef.h>
+	<_timeval.h>
+	<_bsd_types.h>
+	<inaddr.h>
+	<psdk_inc/_socket_types.h>
+	<psdk_inc/_fd_types.h>
+	<psdk_inc/_ip_types.h>
+	<psdk_inc/_wsadata.h>
+	<ws2def.h>
+	<psdk_inc/_wsa_errnos.h>
+	<qos.h>
+	<guiddef.h>
+	<poppack.h>
+	<wsipv6ok.h>
+
+1342463379 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\psdk_inc\_ws1_undef.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ws2def.h
+	<_mingw.h>
+
+1342463386 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\qos.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wsipv6ok.h
+	<ws2tcpip.h>
+	<wspiapi.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ws2tcpip.h
+	<_mingw_unicode.h>
+	<winsock2.h>
+	<psdk_inc/_ip_mreq1.h>
+	<ws2ipdef.h>
+	<mstcpip.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\ws2ipdef.h
+	<in6addr.h>
+
+1342463382 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\in6addr.h
+	<_bsd_types.h>
+
+1342463385 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\mstcpip.h
+	<_mingw_unicode.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\wspiapi.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<ws2tcpip.h>
+	<_mingw_print_push.h>
+	<_mingw_print_pop.h>
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stdio.h
+	<_mingw.h>
+	<_mingw_print_push.h>
+	<_mingw_off_t.h>
+	<sec_api/stdio_s.h>
+	<_mingw_print_pop.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_print_push.h
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_off_t.h
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\sec_api\stdio_s.h
+	<stdio.h>
+
+1342463390 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\_mingw_print_pop.h
+
+1342463391 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\stdint.h
+	<_mingw.h>
+	<stddef.h>
+
+1342463380 c:\users\a_baby_steamship\downloads\x86_64-w64-mingw32-gcc-4.5.4-release-win64_rubenvb\mingw64\x86_64-w64-mingw32\include\commctrl.h
+	<_mingw_unicode.h>
+	<prsht.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+	<pshpack1.h>
+	<poppack.h>
+
+1449827495 c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\gridprotocol.h
+
+1448983404 c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\layoutdefs.h
+
+1449135154 c:\users\a_baby_steamship\documents\jordan\jordan schoolwork\jordan grid project\inverter materials\inverter hmi\inverterinterface\gridprotocol.cpp
+
